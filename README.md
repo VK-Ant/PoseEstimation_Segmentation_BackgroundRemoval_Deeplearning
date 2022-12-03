@@ -1,6 +1,6 @@
 # **Computer vision - Background Removal**
 
-## **Different Background Removal approach - Opencv pixel variation vs deeplearning approach**
+## **Different Background Removal approach - Picture pixel-wise variation vs deeplearning approach**
 
 - Black background removal
 
