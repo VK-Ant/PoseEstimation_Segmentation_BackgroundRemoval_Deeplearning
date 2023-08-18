@@ -1,4 +1,4 @@
-# **Computer vision - Background Removal**
+# **Computer vision - Background Removal and segmentation with deploy gradio**
 
 ## **Different Background Removal approach - Picture pixel-wise variation vs deeplearning approach**
 
@@ -14,6 +14,11 @@
  - Deeplearning : U2Net
  
 ![output_bgrm](https://user-images.githubusercontent.com/75832198/205444670-93a0a768-42ee-4872-886b-bca2cf669c7b.png)
+
+# **Semantic Segmentation**
+![download (1)](https://github.com/VK-Ant/CV_BackgroundRemoval_Segmentation_Practices/assets/75832198/90cb1800-679c-442c-93ce-93714f52750b)
+
+
 
  - Rembg method
  
